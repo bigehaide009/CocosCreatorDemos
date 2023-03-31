@@ -1,0 +1,37 @@
+{
+    "paths": {},
+    "uuids": [
+        "208LYWtqVO4YYFV+x+EsUj",
+        "29FYIk+N1GYaeWH/q1NxQO",
+        "2dL3kvpAxJu6GJ7RdqJG5J",
+        "41D7kWhyFGY7q4NDlzkazn",
+        "4fzJ9gQD1ABJN29UU2V9Wp",
+        "71VhFCTINJM6/Ky3oX9nBT",
+        "a8Anh32NZGRZegUtSgEj26",
+        "b4P/PCArtIdIH38t6mlw8Y",
+        "ba1XzjcA1G4rXvIjMs37v4",
+        "c3K+HeFqRNfJw6cR7KIEOx",
+        "e8Ueib+qJEhL6mXAHdnwbi",
+        "e97GVMl6JHh5Ml5qEDdSGa",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "f0BIwQ8D5Ml7nTNQbh1YlS"
+    ],
+    "scenes": {
+        "db://assets/Scene/helloworld.fire": "2dL3kvpAxJu6GJ7RdqJG5J",
+        "db://assets/Scene/hotUpdate.fire": "4fzJ9gQD1ABJN29UU2V9Wp"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {},
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}
